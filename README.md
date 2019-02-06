@@ -1,2 +1,2 @@
-# ros-sawyer-full-docker
-Docker file recipe for ROS Sawyer full docker
+# ros-sawyer-full-Singularity
+Singularity Recipe to create the image for ros sawyer gazebo
